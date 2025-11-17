@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Mikhael Hayes
-[mai̯kl̩ hei̯z]
+[maɪ̯kl̩ heɪ̯z]
 
 <p align="left">
   <img src="profile.png" alt="Mikhael Hayes" width="200"/>
@@ -22,8 +22,8 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 
 ## Papers in progress
 
-- **"Computing rhyme"** (working title)
-- **"Quantifying aspiration in Zuberoan Basque"** with José Ignacio Hualde. (working title)
+- **Computing rhyme** (working title)
+- **Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. (working title)
 
 ---
 
