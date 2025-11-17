@@ -8,11 +8,6 @@ theme: jekyll-theme-cayman
 
 # Mikhael Hayes
 
-PhD Student in Linguistics  
-University of Illinois Urbana-Champaign (UIUC)
-
-## About Me
-
 I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in Basque, Poetry, Phonology, and History. You can email me at mikhael2 [at] illinois [dot] edu.
 
 ## Conferences & Presentations
