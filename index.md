@@ -1,7 +1,8 @@
 ---
 title: Mikhael Hayes
 layout: default
-theme: minima
+theme: jekyll-theme-cayman
+
 
 ---
 
