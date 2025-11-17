@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Mikhael Hayes
-### [mai̯kl̩ hei̯z]
+[mai̯kl̩ hei̯z]
 
 <p align="left">
   <img src="profile.png" alt="Mikhael Hayes" width="200"/>
