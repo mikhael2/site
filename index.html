@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mikhael | Linguistics PhD Student</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Configure Tailwind to use Inter font -->
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            },
+          },
+        },
+      }
+    </script>
+    <style>
+        /* Simple style for list items */
+        .content-section ul li {
+            position: relative;
+            padding-left: 1.75rem; /* 28px */
+            margin-bottom: 0.75rem; /* 12px */
+        }
+        .content-section ul li::before {
+            content: '»';
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #6b7280; /* gray-500 */
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans antialiased">
+
+    <!-- Main Content Container -->
+    <div class="max-w-3xl mx-auto p-6 sm:p-10">
+
+        <!-- Header Section -->
+        <header class="mb-10">
+            <h1 class="text-4xl font-bold text-gray-900 mb-1">Mikhael [Your Last Name]</h1>
+            <p class="text-xl text-indigo-700">PhD Student in Linguistics</p>
+            <p class="text-lg text-gray-600">University of Illinois Urbana-Champaign (UIUC)</p>
+        </header>
+
+        <!-- About Section (Optional) -->
+        <section class="mb-10 content-section">
+            <h2 class="text-2xl font-semibold text-gray-900 border-b pb-2 mb-4">About Me</h2>
+            <p class="text-base leading-relaxed">
+                I am a PhD student in the Department of Linguistics at UIUC. My research focuses on [Your Research Area, e.g., phonology, historical linguistics, Basque]. I am particularly interested in [A Specific Interest, e.g., computed rhyme].
+                <br><br>
+                You can replace this text with your own bio. Feel free to add links to your CV, email, or other profiles.
+            </p>
+        </section>
+
+        <!-- Conferences Section -->
+        <section class="mb-10 content-section">
+            <h2 class="text-2xl font-semibold text-gray-900 border-b pb-2 mb-4">Conferences & Presentations</h2>
+            <ul class="list-none">
+                <li>
+                    <span class="font-semibold">[Talk Title]</span>. Subregular Workshop at Rutgers University. [Date, e.g., Oct 2025]
+                </li>
+                <li>
+                    <span class="font-semibold">[Talk Title]</span>. Midphon (Midwest Conference on Phonology) at Indiana University. [Date, e.g., May 2025]
+                </li>
+                 <li>
+                    <span class="font-semibold">[Talk Title]</span>. PLL (Phonology and Linguistic Theory) at Indiana University. [Date, e.g., Apr 2025]
+                </li>
+                <li>
+                    <span class="font-semibold">[Future Talk/Poster Title]</span>. Upcoming Conference Name. [Date]
+                </li>
+            </ul>
+        </section>
+
+        <!-- Papers in Progress Section -->
+        <section class="mb-10 content-section">
+            <h2 class="text-2xl font-semibold text-gray-900 border-b pb-2 mb-4">Papers in Progress</h2>
+            <ul class="list-none">
+                <li>
+                    <span class="font-semibold">"A Computational Analysis of Rhyme in Basque Poetry"</span> (Working Title)
+                </li>
+                <li>
+                    <span class="font-semibold">"Phonological Constraints in [Language/Topic]"</span> (Working Title)
+                </li>
+                <li>
+                    (With Co-author) <span class="font-semibold">"Paper Title"</span>
+                </li>
+            </ul>
+        </section>
+
+        <!-- Footer -->
+        <footer class="text-center text-gray-500 text-sm mt-12 pt-6 border-t">
+            &copy; <span id="current-year"></span> Mikhael [Your Last Name]. Last updated: [Current Date].
+        </footer>
+    </div>
+
+    <script>
+        // Set the current year in the footer
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
+
+</body>
+</html>
