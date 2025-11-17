@@ -23,8 +23,8 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 
 ## Papers in Progress
 
-- **"Computing rhyme"** (Working Title)
-- **"Quantifying aspiration in Zuberoan Basque"** with José Ignacio Hualde. (Working Title)
+- **"Computing rhyme"** (working title)
+- **"Quantifying aspiration in Zuberoan Basque"** with José Ignacio Hualde. (working title)
 
 ---
 
