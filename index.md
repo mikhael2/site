@@ -1,6 +1,8 @@
 ---
 title: Mikhael Hayes
 layout: default
+theme: minima
+
 ---
 
 # Mikhael Hayes
