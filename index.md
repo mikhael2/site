@@ -48,6 +48,7 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 
 ## Conferences and presentations
 
+- **Computing rhyme** with Scott Nelson. Poster. LSA Annual Meeting in New Orleans. January 2026.
 - **Aspiration and its historical sources: Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. Talk. ICHBL at University of the Basque Country. November 2025.
 - **Computing rhyme**. Subregular Workshop at Rutgers University. Talk. November 2025.
 - **Aspiration and its historical sources: Quantifying aspiration in Zuberoan Basque**. Poster. MidPhon at Indiana University. October 2025.
@@ -55,8 +56,8 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 
 ## Papers in progress
 
-- **Computing rhyme** (working title)
-- **Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. (working title)
+- **Computing rhyme** (in progress)
+- **Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. (submitted)
 
 ---
 
