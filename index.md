@@ -68,5 +68,8 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 - **Ling 100: Intro to Language Science**, FA24
 
 ---
+## Alphabetter app for IPA input
+I built a free app for macOS. Check it out on my <a href="https://github.com/mikhael2/alphabetter-mac" target="_blank">GitHub</a>.
+---
 
 © {{ site.time | date: "%Y" }} Mikhael Hayes. Last updated: December 2025.
